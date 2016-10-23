@@ -15,7 +15,7 @@ public class Exemplaire {
 
 	private float price;// 汽车价格  prix
 
-	private Date startTime;// 开始日期  date commance de loyer
+	private Date startTime;// 开始日期  date commence de loyer
 
 	private Date endTime;// 截止日期  date fini
 
@@ -23,7 +23,7 @@ public class Exemplaire {
 
 	private int hourseNunber;// 马力
 
-	private int type;// 0——代表汽车， 1——代表摩托车      0 c'est t'a dire auto, 1 egale moto
+	private int type;// 0——代表汽车， 1——代表摩托车      0 c'est a dire auto, 1 egale moto
 
 	/**
 	 * @param id
